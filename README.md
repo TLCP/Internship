@@ -1,2 +1,14 @@
 # Internship
-Project folders are located within this main directory.
+File Layout Overview
+
+|-Internship
+    |-- Embedded
+        |---
+    |-- Biometric
+        |---
+    |-- FrontEnd
+        |---
+    |--Resources
+        |---Tutorials
+    |-- README
+
